@@ -1,0 +1,12 @@
+{
+  "alias": "youtube.phar",
+  "chmod": "0755",
+   "main": "download.php",
+  "directories": [
+    
+  ],
+  "files": [],
+  "output": "youtube.phar",
+  "stub": true
+}
+
