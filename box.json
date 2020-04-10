@@ -5,7 +5,7 @@
   "directories": [
     
   ],
-  "files": [],
+  "files": ["YouTubeDownloader.php"],
   "output": "youtube.phar",
   "stub": true
 }
